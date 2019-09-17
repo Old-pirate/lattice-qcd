@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+/Field/Debug
+/Field/Release
+/Field/x64
+/x64
+/.vs
+
+*.sln
+*.vcxproj
+*.vcxproj.*
